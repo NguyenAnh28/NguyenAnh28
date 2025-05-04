@@ -1,6 +1,4 @@
-# 💫 About Me:
-Please do connect with me on LinkedIn, I'd love to chat and collaborate with you.
-Currently working on VectorShelf.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Ryan)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
