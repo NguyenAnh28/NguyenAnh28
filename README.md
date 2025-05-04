@@ -1,3 +1,4 @@
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Ryan.;I'm+a+Full-Stack+developer.;Let's+connect!)](https://git.io/typing-svg)
 
 ![](severance.gif)
