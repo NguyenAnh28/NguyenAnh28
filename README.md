@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on VectorShelf
+Please do connect with me on LinkedIn, I'd love to chat and collaborate with you.
+Currently working on VectorShelf.
 
 
 ## 🌐 Socials:
