@@ -7,6 +7,3 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyenanhtrinh/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MasterShifu457) [![DevPost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white
 )](https://devpost.com/anhtrinh-swe?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NguyenAnh28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NguyenAnh28&theme=dark&hide_border=false)<br/>
