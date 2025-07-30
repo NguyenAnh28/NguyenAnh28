@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=2300&pause=700&color=F7F7F7&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ryan+👋.;I'm+studying+CS+at+UMass+👨🏻‍💻.;Currently+working+on+LeetGuard+🛡️.;Feel+free+to+reach+out+to+me+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DMSans&weight=900&size=30&duration=2300&pause=700&color=F7F7F7&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ryan+👋.;I'm+studying+CS+at+UMass+👨🏻‍💻.;Currently+working+on+LeetGuard+🛡️.;Feel+free+to+reach+out+to+me+:D)](https://git.io/typing-svg)
 
 ![](severance.gif)
 
