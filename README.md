@@ -1,4 +1,4 @@
-# I'm working on LeetGuard..
+# LeetGuard coming soon..
 
 ![](severance.gif)
 
