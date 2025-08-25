@@ -1,6 +1,6 @@
 ![](leetguard.png)
 
-👋 Hi guys, Ryan here. I am a sophomore at UMass working on delivering my idea LeetGuard (coming very very soon). If you are at UMass, you might catch me day dreaming at the Du Bois library. If you do, please (wake me up) say hi and remind me that I'm unemployed.
+👋 Hi guys, Ryan here. I am a sophomore at UMass working on delivering my idea LeetGuard (coming very very soon). If you are at UMass, you might catch me day dreaming at the Du Bois library. If you do, please (wake me up) remind me that I'm unemployed.
 
 💻 Tech Stack:
   
