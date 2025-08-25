@@ -10,5 +10,4 @@
   
 🌐 Socials:
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyenanhtrinh/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MasterShifu457) [![DevPost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white
-)](https://devpost.com/anhtrinh-swe?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyenanhtrinh/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MasterShifu457) [![DevPost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/anhtrinh-swe?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ft5dmyn6ll49a1.jpg)
