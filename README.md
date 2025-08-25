@@ -1,4 +1,4 @@
-Hi guys, Ryan here. I am a sophomore at UMass working on delivering my idea LeetGuard (coming very very very soon). If you are at UMass, you might catch me day dreaming at the Du Bois library. If you do, please (wake me up) and say hi.
+👋 Hi guys, Ryan here. I am a sophomore at UMass working on delivering my idea LeetGuard (coming very very very soon). If you are at UMass, you might catch me day dreaming at the Du Bois library. If you do, please (wake me up) and say hi.
 
 ![](severance.gif)
 
